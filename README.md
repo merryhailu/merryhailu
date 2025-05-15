@@ -31,7 +31,7 @@ Build side projects that solve real-world problems
 📫 How to Reach Me
 Email: meronhailu1044@gmail.com
 
-Portfolio: yourportfolio.com
+Portfolio: https://github.com/merryhailu/meronhailu_portfolio
 
 LinkedIn: https://www.linkedin.com/in/meron-hailu-/
 
