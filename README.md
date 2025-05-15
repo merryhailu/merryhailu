@@ -1,3 +1,5 @@
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/cc5bec1a-3041-46eb-bb2f-d9ecf99064c2)
+
 ## 👋 Hey there! I'm Meron Hailu.
 
 I'm a passionate **Frontend Developer** with experience of crafting clean, responsive, and interactive user interfaces using modern web technologies.
