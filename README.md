@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👋 About Me
-Hi there! I'm a passionate Frontend Developer with experience building responsive, accessible, and user-friendly web applications.
+ I'm a passionate Frontend Developer with experience building responsive, accessible, and user-friendly web applications.
 
 🚀 Tech Stack & Tools
 Languages: HTML, CSS, JavaScript (ES6+)
