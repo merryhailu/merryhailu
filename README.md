@@ -2,8 +2,15 @@
 
 ## 👋 Hey there! I'm Meron Hailu.
 
-I'm a passionate **Frontend Developer** with experience of crafting clean, responsive, and interactive user interfaces using modern web technologies.
+I am a Frontend Developer specializing in JavaScript (ES6+), React.js, and Tailwind CSS. I build responsive, mobile-first web applications using modern frontend architecture and reusable component design.
+My focus is on:
+• Clean UI implementation
+• Performance optimization
+• Responsive web design
+• REST API integration
+• Scalable frontend solutions
 
+I enjoy transforming design concepts into interactive, high-performance user experiences using React and Tailwind CSS.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -51,7 +58,7 @@ I'm a passionate **Frontend Developer** with experience of crafting clean, respo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/meron-hailu-/)
 - 🌐 [Portfolio](https://github.com/merryhailu/meronhailu_portfolio)
-- 📧 meronhailu1044@gmail.com
+- 📧 meron.welder@gmail.com
 
 ---
 
