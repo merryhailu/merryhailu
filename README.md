@@ -2,26 +2,30 @@
 
 ## 👋 Hey there! I'm Meron Welderufael.
 
-I’m a Frontend Developer transitioning into AI Data Analytics, with growing interest in statistics, product analytics, and technology-driven insights. I enjoy working with data to discover patterns, solve problems, and support better decision-making.
+My background is in frontend development, but I am transitioning into data analytics. My target role is to become an AI-focused Data Analyst specializing in product and technology analysis. I am building toward a career that combines AI, data analytics, and product insights to support better business and technology decisions.
 
-Currently learning:
+### Currently learning:
 • Python for Data Analysis  
 • SQL & Data Visualization  
 • AI/ML Fundamentals  
 • Statistical Analysis  
-• Product & Technology Analytics 
----
+• Product & Technology Analytics  
+
 
 ### 🛠️ Tech Stack & Tools
+
+Data & Analytics:
+• Python(Pandas, Plotly, scikit-learn) 
+• SQL(PostgreSQL, BigQuery) 
+• dbt • Tableau, Power BI, Looker Studio 
+• Streamlit 
+• Claude, ChatGPT, and Gemini for AI-assisted analysisJupyter Notebook 
 
 Frontend:
 HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
 
-Data & Analytics:
-Python • SQL • Jupyter Notebook • Git • GitHub
-
 Tools:
-VS Code • Figma
+VS Code • Figma  • GitHub  • Git
 
 ---
 
