@@ -1,4 +1,3 @@
-![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/cc5bec1a-3041-46eb-bb2f-d9ecf99064c2)
 
 ## 👋 Hey there! I'm Meron Welderufael.
 
